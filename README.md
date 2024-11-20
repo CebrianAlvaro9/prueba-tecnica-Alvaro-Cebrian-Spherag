@@ -17,6 +17,17 @@ Para realizar la prueba correctamente, ha sido necesario deshabilitar **CORS** e
 
 ### Ejecutar el Proyecto
 
+Primero instalar todas las dependencias :
+
+```bash
+npm i
+```
+Entrar en modo desarrollo :
+
+```bash
+npm run dev
+```
+
 Para construir el proyecto en modo producción, utiliza el siguiente comando:
 
 ```bash
